@@ -17,7 +17,7 @@ A web application that allows users to share, explore, and discuss innovative id
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: HTML, CSS, Bootstrap  
+- **Frontend**: HTML, CSS  
 - **Backend**: Python, Django  
 - **Database**: SQLite (or PostgreSQL/MySQL as required)  
 - **Version Control**: Git, GitHub
